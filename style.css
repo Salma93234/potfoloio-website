@@ -30,15 +30,16 @@ h2{
 }
 .half-width{
     width: 50%;
-    margin-bottom: 50px;
-    margin-top: 20px;
+   
 }
 .pic{
     margin-left: 100px;
+    margin-bottom: 50px;
+
 }
 
 .height{
-    padding-top: 50px;
+    padding-top: 30px;
 }
 .half-width img{
     width: 60%;
